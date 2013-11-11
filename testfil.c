@@ -7,7 +7,6 @@
 //sfsdfsdf
 
 //ändring lel
-<<<<<<< HEAD
 
 //7
 
@@ -18,7 +17,3 @@
 //2
 //3
 
-=======
-//1
-//2
->>>>>>> parent of 9eba272... test43
