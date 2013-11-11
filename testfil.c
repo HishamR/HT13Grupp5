@@ -7,7 +7,7 @@
 //sfsdfsdf
 
 //ändring lel
-//1
+//6
 <<<<<<< HEAD
 
 //5
